@@ -1,0 +1,15 @@
+## Interface: 20505
+## Title: GearAdvisor
+## Notes: Adaptive item scoring for TBC Anniversary
+## Author: kryonikal
+## Version: 1.0.0
+## SavedVariables: GearAdvisorDB
+
+Config.lua
+Util.lua
+Detect.lua
+Caps.lua
+Weights.lua
+Racials.lua
+Tooltip.lua
+Options.lua

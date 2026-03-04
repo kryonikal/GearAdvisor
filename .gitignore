@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# WoW temp files
+*.bak
+*.tmp
+
+# Zip releases
+*.zip
